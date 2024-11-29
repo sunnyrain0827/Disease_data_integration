@@ -26,6 +26,5 @@ For datasets that did not integrate well, I conducted analysis:
 ### Data evaluation: purity score
 
 ### Data evaluation: based on COPD-specific marker genes
-Score for:
+Test the score for:
 COPD-associated gene signatures (take max score per cluster only)
-correlate with #DEGs for this cell type in the literature-derived list (requires matching cluster to [coarse] cell type)
