@@ -1,4 +1,4 @@
-# Disease_data_integration
+# Disease data integration
 
 Background: This repo is for the data integration of the HLCA v2 datasets. 
 
