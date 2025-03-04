@@ -1,6 +1,6 @@
 # Disease data integration
 
-Background: This repo is for the data integration of the HLCA v2 datasets. 
+Background: This repo is for the data integration of the lung datasets. 
 
 The notebooks included are:
 
